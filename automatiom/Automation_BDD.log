@@ -1,0 +1,67 @@
+2023-10-21 16:45:28,787 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:45:28,828 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:45:28,832 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:45:28,838 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:45:28,843 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation launchbrowser
+2023-10-21 16:45:42,285 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:45:42,286 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:45:42,286 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:45:42,289 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:48:11,483 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:48:11,493 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:48:11,497 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:48:11,504 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:48:11,509 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation launchbrowser
+2023-10-21 16:48:31,857 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:48:31,858 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:48:31,859 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:48:31,862 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:49:58,004 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:49:58,016 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:49:58,022 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:49:58,028 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:49:58,034 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation launchbrowser
+2023-10-21 16:50:24,658 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user is logged in successfully and is on Home Page.
+2023-10-21 16:50:28,442 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the Menu bar
+2023-10-21 16:50:43,222 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] clicks the search button
+2023-10-21 16:50:46,392 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:50:46,393 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:50:46,395 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:50:46,399 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:52:14,393 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:52:14,402 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:52:14,406 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:52:14,411 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 16:52:14,417 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation launchbrowser
+2023-10-21 16:52:38,830 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user is logged in successfully and is on Home Page.
+2023-10-21 16:52:42,724 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the Menu bar
+2023-10-21 16:52:54,052 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] Done
+2023-10-21 16:52:57,279 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] clicks the search button
+2023-10-21 16:53:00,438 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 16:53:00,439 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 16:53:00,440 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 16:53:00,444 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 17:13:42,114 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 17:13:42,126 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 17:13:42,131 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 17:13:42,140 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 17:13:42,146 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation launchbrowser
+2023-10-21 17:14:13,806 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user is logged in successfully and is on Home Page.
+2023-10-21 17:14:18,182 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the Menu bar
+2023-10-21 17:14:26,407 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 17:14:26,408 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 17:14:26,409 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 17:14:26,414 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 17:14:58,652 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 17:14:58,663 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 17:14:58,668 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 17:14:58,674 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
+2023-10-21 17:14:58,678 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation launchbrowser
+2023-10-21 17:15:50,323 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user is logged in successfully and is on Home Page.
+2023-10-21 17:16:05,639 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] the user clicks on the directory option from the Menu bar
+2023-10-21 17:16:16,934 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] Done
+2023-10-21 17:16:20,242 [INFO ] com.automatiom.step_definitions.VerifyCEOName_Step_Def [main] clicks the search button
+2023-10-21 17:16:23,379 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Executed Started
+2023-10-21 17:16:23,379 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Instantiation the CommonUtils
+2023-10-21 17:16:23,380 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Logging the Properties File
+2023-10-21 17:16:23,410 [INFO ] com.automatiom.step_definitions.Common_Step_Definition [main] Checking Driver is NULL or NOT?
